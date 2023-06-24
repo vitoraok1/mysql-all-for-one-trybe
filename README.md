@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">MySQL All for one</h2>
+  <h2 align="center">MySQL All for One</h2>
   <br/>
   <p align="center">
     An project using MySQL to practice database operations.
